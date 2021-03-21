@@ -1,2 +1,2 @@
 # Stock-Market-Prediction-using-Numerical-and-Textual-Analysis
-A hybrid model compromising of svm classifier and lstm architecutre is used to make stck market predictictor. The data set used for training the model are added with this repository. 
+A hybrid model compromising of svm classifier and lstm architecutre is used to make stck market predictictor. The data set (historical data - consist of opening and closing prices of stocks) used for training the model are added with this repository and the textual data could me found in 'https://www.kaggle.com/therohk/india-headlines-news-dataset' , one can also refer to other data sources.   
